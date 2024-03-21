@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.main-header{
+  font-family: 'Montserrat', sans-serif;
+}
+.ui form label{
+  color: whitesmoke !important;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px !important;
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 1000px;
+  display: flex;
+  background-color: #4a4444;
+  color: whitesmoke;
+  flex-direction: column;
+}
